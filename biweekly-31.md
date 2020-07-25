@@ -1,6 +1,6 @@
 ## 3 - [Count Odd Numbers in an Interval Range](https://leetcode.com/contest/biweekly-contest-31/problems/count-odd-numbers-in-an-interval-range)
 
-从0～n，奇数的个数是(n + 1) / 2，用0～r和0～(l - 1)的奇数个数相减。
+$[0, n]$中奇数的个数是$\left \lfloor \frac{(n + 1)}{2} \right \rfloor$，用$[0, r]$和$[0, l - 1]$的奇数个数相减。
 
 ## 4 - [Number of Sub-arrays With Odd Sum](https://leetcode.com/contest/biweekly-contest-31/problems/number-of-sub-arrays-with-odd-sum)
 
@@ -8,13 +8,13 @@
 
 时间复杂度$O(n)$，空间复杂度$O(1)$.
 
-## 5 - [Number of Good Ways to Split a String](Number of Good Ways to Split a String)
+## 5 - [Number of Good Ways to Split a String](https://leetcode.com/contest/biweekly-contest-31/problems/number-of-good-ways-to-split-a-string)
 
 前后分别统计不同字符个数。
 
 时间复杂度$O(n)$，空间复杂度$O(n)$.
 
-## 7 - [Minimum Number of Increments on Subarrays to Form a Target Array](Minimum Number of Increments on Subarrays to Form a Target Array)
+## 7 - [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/contest/biweekly-contest-31/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
 
 从前向后：
 * 如果当前值比上一个值大，则说明需要在上一个值的基础上执行差值的步数才能达到当前的结果；
