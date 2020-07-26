@@ -1,3 +1,5 @@
+需要用[TeX All the Things](https://chrome.google.com/webstore/detail/cbimabofgmfdkicghcadidpemeenbffn)查看。
+
 ## 3 - [Count Odd Numbers in an Interval Range](https://leetcode.com/contest/biweekly-contest-31/problems/count-odd-numbers-in-an-interval-range)
 
 $[0, n]$中奇数的个数是$\left \lfloor \frac{(n + 1)}{2} \right \rfloor$，用$[0, r]$和$[0, l - 1]$的奇数个数相减。
