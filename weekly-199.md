@@ -1,6 +1,8 @@
+需要用[TeX All the Things](https://chrome.google.com/webstore/detail/cbimabofgmfdkicghcadidpemeenbffn)查看。
+
 ## 3 - [Shuffle String](https://leetcode.com/contest/weekly-contest-199/problems/shuffle-string)
 
-实现。
+简单实现。
 
 ## 4 - [Bulb Switcher IV](https://leetcode.com/contest/weekly-contest-199/problems/bulb-switcher-iv)
 
